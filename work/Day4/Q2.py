@@ -97,6 +97,5 @@ bank = {
     }
 }
 
-bank[56458]["profile"]["username"] = ["irfan"]
-bank[56458]["profile"]["username"].append("irfankpm")
+bank[56458]["profile"]["username"] = "irfankpm"
 print(bank[56458]["profile"]["username"])
